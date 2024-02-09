@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/matt/TinyShellAssignment/build",
+  "command": "/usr/bin/cc   -g -Wall -Wextra -Wpedantic -Wno-unused -std=c11 -o CMakeFiles/TinyShell.dir/TinyShell.c.o -c /home/matt/TinyShellAssignment/TinyShell.c",
+  "file": "/home/matt/TinyShellAssignment/TinyShell.c"
+}
+]

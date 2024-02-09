@@ -1,0 +1,3 @@
+/home/matt/TinyShellAssignment/build/CMakeFiles/TinyShell.dir
+/home/matt/TinyShellAssignment/build/CMakeFiles/edit_cache.dir
+/home/matt/TinyShellAssignment/build/CMakeFiles/rebuild_cache.dir
